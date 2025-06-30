@@ -1,6 +1,6 @@
 # ✨ Hello World, I'm Maria Eduarda 
 
-| 🎓 Graduando em *Ciência da Computação* | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTN2b3BwNXppaXBmeHd2c2h4NG5xOWE5bXV2MHEzNGExY3B2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPGo386UYlmFy/giphy.gif" width="150" /> |
+| 🎓 Graduando em *Ciência da Computação* | 
 |----------------------------------------|------------------------------------------------------------|
 
 ---
