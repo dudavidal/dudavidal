@@ -14,7 +14,7 @@
 </div>
 
 
-## 📫 Contato
+## 📫 
 
 <div style="display: flex; gap: 10px;">
   <a href="mailto:dudavmbrito@gmail.com">
