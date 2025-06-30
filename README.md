@@ -1,4 +1,4 @@
-## ✨ Hello World, I'm Maria Eduarda!
+##  Hello World, I'm Maria Eduarda!✨
 
 - 🎓 Graduanda em Ciência da Computação|UnB
 - 🧠 Sempre aprendendo e explorando novas tecnologias  
@@ -7,8 +7,8 @@
 <img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300">
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudavidal&layout=compact&hide_title=true&langs_count=8&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudavidal&layout=compact&hide_title=true&langs_count=8&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
 </div>
 <br>
 <div style="display: flex; gap: 20px;">
