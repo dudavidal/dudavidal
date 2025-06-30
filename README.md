@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <p>🎓 <strong>Graduando em <em>Ciência da Computação</em></strong></p>
-  <img src="https://tenor.com/d0sRnBrq5Pn.gif" width="150" alt="coding gif" style="border-radius: 10px;" />
+  <img src="<div class="tenor-gif-embed" data-postid="3225908912733202127" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cypher-valorant-sentinel-slide-spray-cypher-moonwalk-sentinel-slide-gif-3225908912733202127">Cypher Valorant Sticker</a>from <a href="https://tenor.com/search/cypher-stickers">Cypher Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
 </div>
 
 <hr>
