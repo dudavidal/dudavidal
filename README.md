@@ -4,7 +4,7 @@
 - 🧠 Sempre aprendendo e explorando novas tecnologias  
 
 <!-- Centralizei o Cypher gif para alinhar melhor com o conteúdo -->
-<div align="center">
+<div align="right">
   <img src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300" alt="Cypher Valorant" />
 </div>
 
