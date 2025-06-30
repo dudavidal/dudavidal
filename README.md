@@ -15,6 +15,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
 </a>
 
-<p align="center">
-  💬 <em>"Coding, but make it cute."</em> 💋
-</p>
+
