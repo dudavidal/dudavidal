@@ -7,14 +7,12 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <!-- Cypher gif alinhado à esquerda -->
-  <div>
-    <img src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300" alt="Cypher Valorant" />
-  </div>
 
-  <!-- GitHub Stats alinhado à direita -->
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=8B5E3C&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c" alt="GitHub Stats"/>
-  </div>
+<img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
+</div>
 
 </div>
 
