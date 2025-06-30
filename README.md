@@ -1,22 +1,17 @@
-## ✨ Hello World, I'm Maria Eduarda
+## ✨ Hello World, I'm Maria Eduarda!
 
-- 🎓 Graduanda em Ciência da Computação  
+- 🎓 Graduanda em Ciência da Computação|UnB
 - 🧠 Sempre aprendendo e explorando novas tecnologias  
 
 <!-- Container flex para Cypher e stats lado a lado -->
+<img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300">
 
-<img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="250">
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudavidal&layout=compact&hide_title=true&langs_count=8&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
 </div>
-
-</div>
-
-
-## 📫 
-
-<div style="display: flex; gap: 10px;">
+<br>
+<div style="display: flex; gap: 20px;">
   <a href="mailto:dudavmbrito@gmail.com">
     <img src="https://img.shields.io/badge/E‑mail-8B7355?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E‑mail" />
   </a>
@@ -27,7 +22,7 @@
 
 <br clear="both">
 
-## 🛠️ Tecnologias
+## 🛠️ 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
