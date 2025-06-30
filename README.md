@@ -7,8 +7,6 @@
 
 <hr>
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaduh&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
 </p>
