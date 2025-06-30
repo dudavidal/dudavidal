@@ -1,13 +1,19 @@
-# ✨ Hello World, I'm Maria Eduarda 💖
+# ✨ Hello World, I'm Maria Eduarda 
+
+| 🎓 Graduando em *Ciência da Computação* | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZiNTN2b3BwNXppaXBmeHd2c2h4NG5xOWE5bXV2MHEzNGExY3B2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPGo386UYlmFy/giphy.gif" width="150" /> |
+|----------------------------------------|------------------------------------------------------------|
+
 ---
 
-## 💅 Sobre mim
-🎓 Estudante de Ciência da Computação
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaduh&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
 </p>
+
+---
+
+### 📱 Vamos nos conectar!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-vidal-66b95b354/">
