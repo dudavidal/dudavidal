@@ -1,7 +1,7 @@
 <h2 align="left">✨ Hello World, I'm Maria Eduarda</h2>
 
 - 🎓 Graduanda em Ciência da Computação  
-- 🧠 Sempre aprendendo e explorando novas tecnologias
+- 🧠 Sempre aprendendo e explorando novas tecnologias  
 
 <img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300">
 
@@ -11,11 +11,33 @@
 
 ---
 
+<!-- Contato -->
+<p>
+  <a href="mailto:dudavmbrito@gmail.com">
+    <img src="https://img.shields.io/badge/E‑mail-8B5E3C?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E‑mail">
+  </a>
+</p>
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/maria-eduarda-vidal-66b95b354/">
   <img src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
 </a>
 
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- Tech stack -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+</div>
+
+<br>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
+
