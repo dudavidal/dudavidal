@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-## 🛠️ 
+## 🛠️ Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
