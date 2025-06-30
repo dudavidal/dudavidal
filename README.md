@@ -4,7 +4,7 @@
 - 🧠 Sempre aprendendo e explorando novas tecnologias  
 
 <!-- Container flex para Cypher e stats lado a lado -->
-<img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="300">
+<img align="right" src="https://media.tenor.com/LMS7EIU6ps8AAAAj/cypher-valorant.gif" width="360">
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <img height="142" src="https://github-readme-stats.vercel.app/api?username=dudavidal&show_icons=true&title_color=c2b280&icon_color=8b5e3c&text_color=4b3621&bg_color=fffaf0&border_color=8b5e3c"/>
