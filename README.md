@@ -1,11 +1,10 @@
 # ✨ Hello World, I'm Maria Eduarda 
 
-| 🎓 Graduando em *Ciência da Computação* | 
+| 🎓 Graduando em *Ciência da Computação* | <img src="https://tenor.com/d0sRnBrq5Pn.gif" width="150" /> |
 |----------------------------------------|------------------------------------------------------------|
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaduh&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
@@ -22,3 +21,4 @@
 </p>
 
 <p align="center"><em>💬 "Coding, but make it cute." 💋</em></p>
+
