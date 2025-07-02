@@ -1,7 +1,7 @@
 ## Hello World, I'm Maria Eduarda!✨
 
-- 🎓 Graduanda em Ciência da Computação|UnB
-- 🧠 Sempre aprendendo e explorando novas tecnologias
+I'm currently studying at the University of Brasilia (UnB).<br>
+Trainee at Junior Enterprise CJR
 
 
 
