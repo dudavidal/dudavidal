@@ -1,7 +1,7 @@
 ## Hello World, I'm Maria Eduarda!✨
 
 🎓 I'm currently studying Computer Science at the University of Brasília (UnB).<br>
-👨‍💻 Trainee at [CJR - UnB Junior Enterprise]
+👨‍💻 Trainee at CJR - UnB Junior Enterprise
 
 
 ## 📊 Github Stats
