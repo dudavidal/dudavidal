@@ -5,7 +5,6 @@
 ## Hello World, I'm Maria Eduarda!✨
 
 - 🎓 I'm currently studying Computer Science at the University of Brasília (UnB).
-- 🔐 Computer Science student focused on Cybersecurity
 - 🌐 Interested in networking, vulnerability exploitation, and offensive security
 - 📚 Learning through hands-on labs and CTFs (TryHackMe)
 
